@@ -2,13 +2,13 @@
 URL:[https://cdn.jsdelivr.net/gh/kbdog/emojiCDN/tieba/](https://cdn.jsdelivr.net/gh/kbdog/emojiCDN/tieba/)
 JSON数组:
 {
-  "1": "haha.png",
-  "2": "OK.png",
-  "3": "what.png",
-  "4": "不高兴.png",
-  "5": "乖.png",
-  "6": "你懂的.png",
-  "7": "便便.png",
+  "1": "haha.png",  
+  "2": "OK.png",  
+  "3": "what.png",  
+  "4": "不高兴.png",  
+  "5": "乖.png",  
+  "6": "你懂的.png",  
+  "7": "便便.png",  
   "8": "勉强.png",
   "9": "吐.png",
   "10": "吐舌.png",
