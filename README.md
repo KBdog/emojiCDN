@@ -1,1 +1,2 @@
 # emojiCDN
+emoji仓库
