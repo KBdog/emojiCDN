@@ -1,6 +1,8 @@
 ## 自用emoji仓库CDN  
+## 贴吧表情 
 URL:[https://cdn.jsdelivr.net/gh/kbdog/emojiCDN/tieba/](https://cdn.jsdelivr.net/gh/kbdog/emojiCDN/tieba/)  
-JSON数组:  
+valine使用的JSON:  
+```json
 {  
   "1": "haha.png",  
   "2": "OK.png",  
@@ -63,4 +65,6 @@ JSON数组:
   "59": "香蕉.png",  
   "60": "黑线.png"   
 }
-
+```
+## wallpaper壁纸
+URL:[https://cdn.jsdelivr.net/gh/kbdog/emojiCDN/wallpaper/](https://cdn.jsdelivr.net/gh/kbdog/emojiCDN/wallpaper/)
